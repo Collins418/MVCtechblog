@@ -50,7 +50,7 @@ class User extends Model {
               },
             },
             sequelize,
-            // these are sequelize property options:
+            // add these for sequelize property options area
             timestamps: false,
             freezeTableName: true,
             underscored: true,
