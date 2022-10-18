@@ -1,7 +1,7 @@
 # Tech-Blog
 
 # Description
- Homework assignment for Rutgers Coding Bootcamp using the MVC method
+Writing about tech can be just as important as making it.
 
 # Table of Contents
   * [Development](#Development)
@@ -99,6 +99,4 @@ GitHub-Collins418
 Linkedin- https://linkedin.com/in/latavya-collins/)
 
 
-# MVCtechblog
-# MVCtechblog
-# MVCtechblog
+
