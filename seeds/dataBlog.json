@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Unpopular opinion",
+        "description": " You don't need a college degree to get a high paying job.",
+        "user_id": 1
+    },
+    {
+        "title": "Am I the only one who dislike the band called the Beatles ...",
+        "description": "It's like boomers...chill.. They are not that graet.",
+        "user_id": 2
+    },
+    {
+        "title": "Code switching is exhausting",
+        "description": "For people of color, code-switching is a means of professional (and sometimes ) survival. Though this kind of code-switching is often second nature, it can lead to emotional exhaustion and burnout.",
+        "user_id": 3
+    }
+]
