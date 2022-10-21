@@ -10,7 +10,7 @@ const SequelizeStore = require('connect-session-sequelize')(session.Store);
 const routes = require('./controllers');
 
 const app = express();
-const PORT = process.env.PORT || 3306;
+const PORT = process.env.PORT || 5500;
 
 // Set up Handlebars.js engine 
 const hbs = exphbs.create({ helpers });
@@ -32,7 +32,6 @@ const sess = {
 
 app.use(session(sess));
 
-// let Express.js of the correct temp engine to use area
 app.engine('handlebars', hbs.engine);
 app.set('view engine', 'handlebars');
 
