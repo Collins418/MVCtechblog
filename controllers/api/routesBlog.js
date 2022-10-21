@@ -60,7 +60,7 @@ router.get('/:id', (req, res) => {
         })
         .then(blogData => {
             if (!blogData) {
-                res.status(404).json({ message: 'No post found with this id' });
+                res.status(404).json({ message: 'Oh no! No post found with this id' });
                 return;
             }
             res.json(blogData);
